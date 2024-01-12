@@ -1,0 +1,7 @@
+@inproceedings{REPO114,
+    author = "Li, Hangyu and Wang, Nannan and Yang, Xi and Wang, Xiaoyu and Gao, Xinbo",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "4166--4175",
+    title = "{Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin}",
+    year = "2022"
+}
