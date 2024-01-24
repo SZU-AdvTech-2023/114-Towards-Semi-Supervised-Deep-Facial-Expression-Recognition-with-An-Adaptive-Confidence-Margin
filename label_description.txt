@@ -1,0 +1,31 @@
+开心、悲伤、惊讶、恐惧、厌恶、生气、中立
+
+---------------------------以其为标准对RAF-DB、FER2013进行了重新标注
+0：Surprise  惊讶
+1：Fear      恐惧
+2：Disgust   厌恶
+3：Happiness 开心
+4：Sadness   悲伤
+5：Anger     生气
+6：Neutral   中立
+
+FER2013---------------------------------原始标注
+0 anger      生气； 
+1 disgust    厌恶； 
+2 fear       恐惧； 
+3 happy      开心；
+4 normal     中立； 
+5 sad        悲伤；
+6 surprised  惊讶
+
+RAF-DB---------------------------------原始标注
+1：Surprise  惊讶
+2：Fear      恐惧
+3：Disgust   厌恶
+4：Happiness 开心
+5：Sadness   悲伤
+6：Anger     生气
+7：Neutral   中立
+
+
+
